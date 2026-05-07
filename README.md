@@ -1,2 +1,7 @@
 # Predicting-Customer-Buying-Behaviour-British-Airways
-Prepare a dataset. Train a machine learning model using . Evaluate and present your findings.
+Used data and predictive models to help British Airways acquire customers before they embark on their holidays.
+
+Steps
+Prepared a dataset. 
+Trained a machine learning model using the Random Forest Algorithm. 
+Evaluated and presented findings on a slide deck.
